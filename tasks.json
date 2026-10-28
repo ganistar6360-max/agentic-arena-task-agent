@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "Submit literature review draft",
+      "owner": "Praveen",
+      "deadline": "2026-10-25T18:00:00",
+      "status": "pending",
+      "category": "research"
+    },
+    {
+      "id": "T002",
+      "title": "Design user interface mockup",
+      "owner": "Gani",
+      "deadline": "2026-10-27T09:00:00",
+      "status": "pending",
+      "category": "design"
+    },
+    {
+      "id": "T003",
+      "title": "Set up CI/CD pipeline for demo",
+      "owner": "Charlie",
+      "deadline": "2026-10-26T12:00:00",
+      "status": "pending",
+      "category": "development"
+    },
+    {
+      "id": "T004",
+      "title": "Prepare meeting agenda for sync",
+      "owner": "Yashwanth",
+      "deadline": "2026-10-29T10:00:00",
+      "status": "pending",
+      "category": "administrative"
+    },
+    {
+      "id": "T005",
+      "title": "Submit final budget proposal",
+      "owner": "Bob",
+      "deadline": "2026-10-27T14:00:00",
+      "status": "pending",
+      "category": "finance"
+    }
+  ]
+}
